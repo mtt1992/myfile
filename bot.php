@@ -1,5 +1,5 @@
 <?php
-  // https://api.telegram.org/bot1011487225:AAGifzTkxzJvb5aaih4V51eYzFygFvlMCxI/setwebhook?url=https://mtt1992.herokuapp.com/mtt1992/myfile/bot.php
+  // https://api.telegram.org/bot1011487225:AAGifzTkxzJvb5aaih4V51eYzFygFvlMCxI/setwebhook?url=https://mtt1992.herokuapp.com/github.com/mtt1992/myfile/blob/master/bot.php
     
     //-------------------------------------
     
